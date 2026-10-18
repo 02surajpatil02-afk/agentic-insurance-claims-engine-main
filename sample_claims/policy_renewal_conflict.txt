@@ -1,0 +1,28 @@
+INSURANCE CLAIM SUBMISSION
+Date of Submission: February 03, 2026
+
+PATIENT & POLICY INFORMATION:
+Claimant Name: Diane Okafor
+Policy Number: POL-7734410
+Date of Service: January 18, 2026
+
+NOTE ON POLICY TRANSITION:
+This claim was originally filed under legacy Policy Number POL-2201199, which
+was renewed and reissued as POL-7734410 effective January 01, 2026. Both
+policy numbers appear on the attached billing correspondence from the
+provider's office.
+
+SERVICE PROVIDER DETAILS:
+Provider Name: Lakeside Surgical Associates
+Diagnosis Code: ICD-10-M17.11 (Unilateral primary osteoarthritis, right knee)
+Procedure: Total Knee Arthroplasty
+
+ITEMIZED STATEMENT OF CHARGES:
+1. Surgical Procedure & Facility Fee: $8,900.00
+2. Anesthesia Services: $1,150.75
+
+TOTAL CLAIM AMOUNT: $10,050.75
+
+REMARKS:
+Provider's billing office has been notified of the duplicate policy number
+reference and asked to confirm the active policy on file.

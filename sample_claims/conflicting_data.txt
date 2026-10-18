@@ -1,0 +1,23 @@
+REIMBURSEMENT REQUEST & INVOICE
+Date: January 12, 2026
+
+PATIENT INFORMATION:
+Claimant Name: Elena Rostova (Listed as Elena Rostov-Smith in medical summary)
+Policy Number: POL-5539201
+
+SERVICE DETAILS:
+Provider: Apex Diagnostic Imaging
+Date of Service: December 28, 2025
+Procedure: Abdominal CT Scan & Ultrasound
+
+STATEMENT & INVOICE SUMMARY:
+Page 1 Summary Total: $8,200.00
+Page 2 Itemized Breakdown Total: $12,500.00
+- Abdominal CT Scan: $7,500.00
+- Contrast Material & Tech Fee: $3,000.00
+- Ultrasound Scan: $2,000.00
+
+CLAIM AMOUNT REQUESTED: $8,200.00
+
+WARNING / AMBIGUITY NOTE:
+Invoice cover letter lists requested reimbursement as $8,200.00, whereas the itemized schedule attached on page 2 sums to $12,500.00. Furthermore, patient name displays minor variance between cover letter and clinical record.

@@ -1,0 +1,25 @@
+HEALTHCARE CLAIM SUBMISSION FORM
+Date of Submission: October 14, 2025
+
+PATIENT & CLAIMANT DETAILS:
+Claimant Name: Sarah Jenkins
+Policy Number: POL-8829104
+Date of Birth: 04/12/1986
+Contact Phone: (555) 234-5678
+
+CLAIM DETAILS:
+Date of Service: October 02, 2025
+Healthcare Provider: Metro Health Orthopedics
+Facility NPI: 1928374650
+Primary Diagnosis: M25.561 - Pain in right knee
+Procedure Code: CPT-73721 (MRI Right Knee without contrast) + Physical Therapy Evaluation
+
+ITEMIZED EXPENSES:
+1. Right Knee MRI Scan: $2,400.00
+2. Orthopedic Specialist Consultation: $450.00
+3. Initial Physical Therapy Evaluation: $600.00
+
+TOTAL CLAIM AMOUNT: $3,450.00
+
+NOTES:
+Patient received emergency consultation following a sports injury. All procedures performed in-network at Metro Health Orthopedics. Policy is active and premiums paid up to date.

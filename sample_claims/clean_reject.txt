@@ -1,0 +1,19 @@
+INSURANCE CLAIM NOTICE
+Date of Notice: November 05, 2025
+
+PATIENT DETAILS:
+Claimant Name: Marcus Vance
+Policy Number: INVALID_9999
+Date of Incident: September 20, 2025
+
+SERVICE PROVIDER DETAILS:
+Provider Name: Westside Outpatient Clinic
+
+STATEMENT OF CLAIM:
+Claimant submitted reimbursement request for unlisted holistic therapy session.
+Policy identification provided does not conform to required active policy format (POL-XXXXXXX).
+
+TOTAL CLAIM AMOUNT: $0.00 (No numeric itemized amount specified)
+
+REMARKS:
+Unable to verify active coverage. Policy ID invalid.

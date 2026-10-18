@@ -1,0 +1,24 @@
+COMPREHENSIVE MEDICAL CLAIM REPORT
+Date of Submission: December 01, 2025
+
+PATIENT & POLICY INFORMATION:
+Claimant Name: Robert T. Chen
+Policy Number: POL-4401928
+Group Number: GRP-7721
+Date of Service: November 18, 2025
+
+PROVIDER & DIAGNOSIS:
+Hospital / Provider: St. Jude Cardiovascular Center
+Attending Physician: Dr. Aris Thorne, MD
+Diagnosis Code: ICD-10-I25.10 (Atherosclerotic heart disease)
+Procedure: Coronary Artery Bypass Grafting (CABG x3) + ICU Post-Op Care
+
+ITEMIZED STATEMENT OF CHARGES:
+1. Inpatient Surgical Suite & Anesthesia: $28,500.00
+2. Intensive Care Unit Stay (3 Days): $11,200.00
+3. Cardiac Rehabilitation & Medications: $5,500.00
+
+TOTAL CLAIMED AMOUNT: $45,200.00
+
+CLINICAL BRIEF:
+Patient underwent successful triple bypass procedure following acute angina. Inpatient admission authorized under emergency protocol. High total expenses exceed automated approval limits and require clinical caseworker review.

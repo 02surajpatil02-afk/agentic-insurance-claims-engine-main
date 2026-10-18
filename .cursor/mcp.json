@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "claims-email": {
+      "command": "${workspaceFolder}/.venv/Scripts/python.exe",
+      "args": ["${workspaceFolder}/mcp_email_server.py"],
+      "envFile": "${workspaceFolder}/.env"
+    }
+  }
+}
